@@ -3,3 +3,4 @@ README.md
 txt.txt
 txt.txt.orig
 dupa
+kupa2
