@@ -1,0 +1,7 @@
+README.md
+txt.txt
+<<<<<<< HEAD
+dupa:
+=======
+added
+>>>>>>> origin/master
