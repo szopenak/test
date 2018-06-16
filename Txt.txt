@@ -1,7 +1,7 @@
 README.md
 txt.txt
-dupa:
-addeawdawdd
-also
-edit server
-more change
+dupa:aa
+addeawdawddaa
+alsoaa
+edit serveraa
+more changeaa
